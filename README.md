@@ -1,5 +1,5 @@
 <p>
-<omg src="https://github-readme-stats.vercel.app/api?username=coderhare&show_icons" alt="logo" style="margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=coderhare&show_icons" alt="logo" style="margin-bottom: 20px;" />
 </p>
 
 ### Hi there 👋
@@ -24,3 +24,6 @@ Connect with me here~
 - 🔭 I’m currently a student.
 - 🌱 Very weak in CS，like music and painting✨, but also very weak.
 - 🐇 Hope to be a man available to the society.
+
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=coderhare&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
