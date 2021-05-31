@@ -1,3 +1,7 @@
+<p>
+<omg src="https://github-readme-stats.vercel.app/api?username=coderhare&show_icons" alt="logo" style="margin-bottom: 20px;" />
+</p>
+
 ### Hi there 👋
 
 <!--
