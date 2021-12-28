@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hello! This is coderhare.
 Connect with me here~
 
-[![1136153224@qq.com](https://img.shields.io/badge/-1136153224%40qq.com-green)](1136153224@qq.com)
+[![1136153224@qq.com](https://img.shields.io/badge/-1136153224%40qq.com-green)](mailto:1136153224@qq.com)
 - 👯 I’m looking to collaborate on back end programs.
 - 🔭 I’m currently a student.
 - 🌱 Very weak in CS，like music and painting✨, but also very weak.
